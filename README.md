@@ -1,4 +1,4 @@
-[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-personal-page.svg)](https://vshymanskyy.github.io/StandWithUkraine)
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-no-action.svg)](https://vshymanskyy.github.io/StandWithUkraine)
 
 <!--
 **NamesMark/NamesMark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
